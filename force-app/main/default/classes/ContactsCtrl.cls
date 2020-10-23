@@ -1,3 +1,5 @@
+//added comments once again
+
 public class ContactsCtrl {
 
     @AuraEnabled
